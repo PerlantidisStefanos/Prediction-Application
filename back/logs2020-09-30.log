@@ -1,0 +1,226 @@
+2020-09-30 18:15:07,316 -  * Restarting with stat
+2020-09-30 18:15:11,738 -  * Debugger is active!
+2020-09-30 18:15:11,896 -  * Debugger PIN: 136-831-359
+2020-09-30 18:15:11,919 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 18:15:13,211 - 127.0.0.1 - - [30/Sep/2020 18:15:13] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 18:15:20,340 - 127.0.0.1 - - [30/Sep/2020 18:15:20] "[32mGET /pat/app/v1.0/stats HTTP/1.1[0m" 308 -
+2020-09-30 18:15:21,664 - 127.0.0.1 - - [30/Sep/2020 18:15:21] "[37mGET /pat/app/v1.0/stats/ HTTP/1.1[0m" 200 -
+2020-09-30 18:34:42,872 -  * Restarting with stat
+2020-09-30 18:34:48,474 -  * Debugger is active!
+2020-09-30 18:34:48,593 -  * Debugger PIN: 136-831-359
+2020-09-30 18:34:48,638 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 18:34:50,154 - 127.0.0.1 - - [30/Sep/2020 18:34:50] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 18:43:21,075 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\controllers\\model_controller.py', reloading
+2020-09-30 18:43:21,665 -  * Restarting with stat
+2020-09-30 18:44:08,006 -  * Restarting with stat
+2020-09-30 18:44:11,376 -  * Debugger is active!
+2020-09-30 18:44:11,396 -  * Debugger PIN: 136-831-359
+2020-09-30 18:44:11,420 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 18:44:12,767 - 127.0.0.1 - - [30/Sep/2020 18:44:12] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 18:44:36,227 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\controllers\\model_controller.py', reloading
+2020-09-30 18:44:36,475 -  * Restarting with stat
+2020-09-30 18:44:40,908 -  * Debugger is active!
+2020-09-30 18:44:40,922 -  * Debugger PIN: 136-831-359
+2020-09-30 18:44:40,951 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:03:00,752 -  * Restarting with stat
+2020-09-30 22:03:04,211 -  * Debugger is active!
+2020-09-30 22:03:04,278 -  * Debugger PIN: 136-831-359
+2020-09-30 22:03:04,294 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:03:12,108 - 127.0.0.1 - - [30/Sep/2020 22:03:12] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:04:25,003 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:04:25,799 -  * Restarting with stat
+2020-09-30 22:04:29,021 -  * Debugger is active!
+2020-09-30 22:04:29,036 -  * Debugger PIN: 136-831-359
+2020-09-30 22:04:29,073 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:04:38,941 - 127.0.0.1 - - [30/Sep/2020 22:04:38] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:05:28,285 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:05:28,590 -  * Restarting with stat
+2020-09-30 22:05:52,510 -  * Restarting with stat
+2020-09-30 22:05:56,976 -  * Debugger is active!
+2020-09-30 22:05:57,030 -  * Debugger PIN: 136-831-359
+2020-09-30 22:05:57,228 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:05:58,610 - 127.0.0.1 - - [30/Sep/2020 22:05:58] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:06:42,239 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\app.py', reloading
+2020-09-30 22:06:42,511 -  * Restarting with stat
+2020-09-30 22:06:46,482 -  * Debugger is active!
+2020-09-30 22:06:46,497 -  * Debugger PIN: 136-831-359
+2020-09-30 22:06:46,517 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:06:51,590 - 127.0.0.1 - - [30/Sep/2020 22:06:51] "[35m[1mPOST /pat/app/v1.0/models HTTP/1.1[0m" 500 -
+2020-09-30 22:07:18,274 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\app.py', reloading
+2020-09-30 22:07:18,593 -  * Restarting with stat
+2020-09-30 22:07:22,010 -  * Debugger is active!
+2020-09-30 22:07:22,029 -  * Debugger PIN: 136-831-359
+2020-09-30 22:07:22,055 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:07:54,124 - 127.0.0.1 - - [30/Sep/2020 22:07:54] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:08:42,074 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:08:42,391 -  * Restarting with stat
+2020-09-30 22:08:46,223 -  * Debugger is active!
+2020-09-30 22:08:46,244 -  * Debugger PIN: 136-831-359
+2020-09-30 22:08:46,285 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:08:50,104 - 127.0.0.1 - - [30/Sep/2020 22:08:50] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:09:17,626 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:09:17,932 -  * Restarting with stat
+2020-09-30 22:09:21,420 -  * Debugger is active!
+2020-09-30 22:09:21,435 -  * Debugger PIN: 136-831-359
+2020-09-30 22:09:21,473 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:09:25,296 - 127.0.0.1 - - [30/Sep/2020 22:09:25] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:09:49,036 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:09:49,248 -  * Restarting with stat
+2020-09-30 22:09:52,966 -  * Debugger is active!
+2020-09-30 22:09:52,980 -  * Debugger PIN: 136-831-359
+2020-09-30 22:09:53,013 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:09:56,602 - 127.0.0.1 - - [30/Sep/2020 22:09:56] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:10:09,112 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:10:09,432 -  * Restarting with stat
+2020-09-30 22:10:13,106 -  * Debugger is active!
+2020-09-30 22:10:13,124 -  * Debugger PIN: 136-831-359
+2020-09-30 22:10:13,149 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:10:20,569 - 127.0.0.1 - - [30/Sep/2020 22:10:20] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:10:26,520 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:10:26,760 -  * Restarting with stat
+2020-09-30 22:10:30,999 -  * Debugger is active!
+2020-09-30 22:10:31,018 -  * Debugger PIN: 136-831-359
+2020-09-30 22:10:31,086 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:10:38,782 - 127.0.0.1 - - [30/Sep/2020 22:10:38] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:11:20,984 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:11:21,171 -  * Restarting with stat
+2020-09-30 22:11:24,634 -  * Debugger is active!
+2020-09-30 22:11:24,651 -  * Debugger PIN: 136-831-359
+2020-09-30 22:11:24,676 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:11:29,084 - 127.0.0.1 - - [30/Sep/2020 22:11:29] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:12:00,464 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:12:00,693 -  * Restarting with stat
+2020-09-30 22:12:04,249 -  * Debugger is active!
+2020-09-30 22:12:04,265 -  * Debugger PIN: 136-831-359
+2020-09-30 22:12:04,308 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:12:09,473 - 127.0.0.1 - - [30/Sep/2020 22:12:09] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:13:09,543 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\controllers\\model_controller.py', reloading
+2020-09-30 22:13:09,768 -  * Restarting with stat
+2020-09-30 22:13:13,606 -  * Debugger is active!
+2020-09-30 22:13:13,620 -  * Debugger PIN: 136-831-359
+2020-09-30 22:13:13,666 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:13:25,073 - 127.0.0.1 - - [30/Sep/2020 22:13:25] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:15:53,887 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:15:54,175 -  * Restarting with stat
+2020-09-30 22:15:57,502 -  * Debugger is active!
+2020-09-30 22:15:57,518 -  * Debugger PIN: 136-831-359
+2020-09-30 22:15:57,565 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:16:12,195 - 127.0.0.1 - - [30/Sep/2020 22:16:12] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:16:36,157 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:16:36,405 -  * Restarting with stat
+2020-09-30 22:16:40,645 -  * Debugger is active!
+2020-09-30 22:16:40,663 -  * Debugger PIN: 136-831-359
+2020-09-30 22:16:40,687 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:16:53,160 - 127.0.0.1 - - [30/Sep/2020 22:16:53] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:17:41,492 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:17:41,746 -  * Restarting with stat
+2020-09-30 22:17:45,086 -  * Debugger is active!
+2020-09-30 22:17:45,103 -  * Debugger PIN: 136-831-359
+2020-09-30 22:17:45,136 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:18:04,010 - 127.0.0.1 - - [30/Sep/2020 22:18:04] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:20:09,747 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:20:09,970 -  * Restarting with stat
+2020-09-30 22:20:13,580 -  * Debugger is active!
+2020-09-30 22:20:13,596 -  * Debugger PIN: 136-831-359
+2020-09-30 22:20:13,640 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:20:25,790 - 127.0.0.1 - - [30/Sep/2020 22:20:25] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:24:14,894 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:24:15,147 -  * Restarting with stat
+2020-09-30 22:24:19,835 -  * Debugger is active!
+2020-09-30 22:24:19,855 -  * Debugger PIN: 136-831-359
+2020-09-30 22:24:19,896 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:24:29,169 - 127.0.0.1 - - [30/Sep/2020 22:24:29] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:24:57,270 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:24:57,516 -  * Restarting with stat
+2020-09-30 22:25:01,714 -  * Debugger is active!
+2020-09-30 22:25:01,729 -  * Debugger PIN: 136-831-359
+2020-09-30 22:25:01,761 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:25:10,833 - 127.0.0.1 - - [30/Sep/2020 22:25:10] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:25:39,716 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:25:39,915 -  * Restarting with stat
+2020-09-30 22:25:44,227 -  * Debugger is active!
+2020-09-30 22:25:44,240 -  * Debugger PIN: 136-831-359
+2020-09-30 22:25:44,275 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:25:53,320 - 127.0.0.1 - - [30/Sep/2020 22:25:53] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:27:46,563 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\controllers\\model_controller.py', reloading
+2020-09-30 22:27:47,019 -  * Restarting with stat
+2020-09-30 22:28:06,587 -  * Debugger is active!
+2020-09-30 22:28:06,600 -  * Debugger PIN: 136-831-359
+2020-09-30 22:28:06,640 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:28:12,908 - 127.0.0.1 - - [30/Sep/2020 22:28:12] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:29:14,106 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:29:14,388 -  * Restarting with stat
+2020-09-30 22:29:18,277 -  * Debugger is active!
+2020-09-30 22:29:18,297 -  * Debugger PIN: 136-831-359
+2020-09-30 22:29:18,335 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:29:27,882 - 127.0.0.1 - - [30/Sep/2020 22:29:27] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:31:37,043 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:31:37,256 -  * Restarting with stat
+2020-09-30 22:31:41,565 -  * Debugger is active!
+2020-09-30 22:31:41,580 -  * Debugger PIN: 136-831-359
+2020-09-30 22:31:41,612 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:31:57,370 - 127.0.0.1 - - [30/Sep/2020 22:31:57] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:32:43,197 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\controllers\\model_controller.py', reloading
+2020-09-30 22:32:43,429 -  * Restarting with stat
+2020-09-30 22:32:47,029 -  * Debugger is active!
+2020-09-30 22:32:47,046 -  * Debugger PIN: 136-831-359
+2020-09-30 22:32:47,090 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:32:59,340 - 127.0.0.1 - - [30/Sep/2020 22:32:59] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 22:33:47,322 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 22:33:47,563 -  * Restarting with stat
+2020-09-30 22:33:52,162 -  * Debugger is active!
+2020-09-30 22:33:52,183 -  * Debugger PIN: 136-831-359
+2020-09-30 22:33:52,231 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 22:33:59,701 - 127.0.0.1 - - [30/Sep/2020 22:33:59] "[35m[1mPOST /pat/app/v1.0/models HTTP/1.1[0m" 500 -
+2020-09-30 23:04:05,956 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:04:06,356 -  * Restarting with stat
+2020-09-30 23:04:10,564 -  * Debugger is active!
+2020-09-30 23:04:10,583 -  * Debugger PIN: 136-831-359
+2020-09-30 23:04:10,611 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 23:04:23,788 - 127.0.0.1 - - [30/Sep/2020 23:04:23] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:06:05,207 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:06:05,434 -  * Restarting with stat
+2020-09-30 23:06:08,785 -  * Debugger is active!
+2020-09-30 23:06:08,801 -  * Debugger PIN: 136-831-359
+2020-09-30 23:06:08,831 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 23:06:20,989 - 127.0.0.1 - - [30/Sep/2020 23:06:20] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:08:42,288 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:08:42,523 -  * Restarting with stat
+2020-09-30 23:09:13,634 -  * Restarting with stat
+2020-09-30 23:09:18,169 -  * Debugger is active!
+2020-09-30 23:09:18,192 -  * Debugger PIN: 136-831-359
+2020-09-30 23:09:18,285 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 23:09:25,882 - 127.0.0.1 - - [30/Sep/2020 23:09:25] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:10:31,300 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:10:31,531 -  * Restarting with stat
+2020-09-30 23:10:34,903 -  * Debugger is active!
+2020-09-30 23:10:34,918 -  * Debugger PIN: 136-831-359
+2020-09-30 23:10:34,952 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 23:10:46,998 - 127.0.0.1 - - [30/Sep/2020 23:10:46] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:14:17,017 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:14:17,273 -  * Restarting with stat
+2020-09-30 23:14:21,762 -  * Debugger is active!
+2020-09-30 23:14:21,784 -  * Debugger PIN: 136-831-359
+2020-09-30 23:14:21,841 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 23:14:30,731 - 127.0.0.1 - - [30/Sep/2020 23:14:30] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:18:15,929 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:18:16,201 -  * Restarting with stat
+2020-09-30 23:18:21,807 -  * Debugger is active!
+2020-09-30 23:18:21,828 -  * Debugger PIN: 136-831-359
+2020-09-30 23:18:21,877 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 23:18:30,094 - 127.0.0.1 - - [30/Sep/2020 23:18:30] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:20:27,632 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:20:27,877 -  * Restarting with stat
+2020-09-30 23:20:32,624 -  * Debugger is active!
+2020-09-30 23:20:32,646 -  * Debugger PIN: 136-831-359
+2020-09-30 23:20:32,706 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-30 23:20:42,627 - 127.0.0.1 - - [30/Sep/2020 23:20:42] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:21:59,877 - 127.0.0.1 - - [30/Sep/2020 23:21:59] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:22:32,853 - 127.0.0.1 - - [30/Sep/2020 23:22:32] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:23:07,152 - 127.0.0.1 - - [30/Sep/2020 23:23:07] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:23:22,474 - 127.0.0.1 - - [30/Sep/2020 23:23:22] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-30 23:23:31,101 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\services\\model_service.py', reloading
+2020-09-30 23:23:31,340 -  * Restarting with stat
+2020-09-30 23:23:35,217 -  * Debugger is active!
+2020-09-30 23:23:35,230 -  * Debugger PIN: 136-831-359
+2020-09-30 23:23:35,273 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

@@ -1,0 +1,25 @@
+2020-09-29 11:17:01,637 -  * Restarting with stat
+2020-09-29 11:17:06,032 -  * Debugger is active!
+2020-09-29 11:17:06,200 -  * Debugger PIN: 136-831-359
+2020-09-29 11:17:06,252 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-29 11:17:21,662 - 127.0.0.1 - - [29/Sep/2020 11:17:21] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-29 11:17:52,399 - 127.0.0.1 - - [29/Sep/2020 11:17:52] "[32mGET /pat/app/v1.0/stats HTTP/1.1[0m" 308 -
+2020-09-29 11:17:53,382 - 127.0.0.1 - - [29/Sep/2020 11:17:53] "[37mGET /pat/app/v1.0/stats/ HTTP/1.1[0m" 200 -
+2020-09-29 11:32:04,291 -  * Restarting with stat
+2020-09-29 11:32:08,041 -  * Debugger is active!
+2020-09-29 11:32:08,056 -  * Debugger PIN: 136-831-359
+2020-09-29 11:32:08,081 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-29 11:32:10,212 - 127.0.0.1 - - [29/Sep/2020 11:32:10] "[32mGET /pat/app/v1.0/stats HTTP/1.1[0m" 308 -
+2020-09-29 11:32:10,725 - 127.0.0.1 - - [29/Sep/2020 11:32:10] "[37mGET /pat/app/v1.0/stats/ HTTP/1.1[0m" 200 -
+2020-09-29 11:50:22,989 -  * Restarting with stat
+2020-09-29 11:50:25,475 -  * Debugger is active!
+2020-09-29 11:50:25,497 -  * Debugger PIN: 136-831-359
+2020-09-29 11:50:25,529 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-29 11:50:40,254 - 127.0.0.1 - - [29/Sep/2020 11:50:40] "[32mGET /pat/app/v1.0/stats HTTP/1.1[0m" 308 -
+2020-09-29 11:50:40,701 - 127.0.0.1 - - [29/Sep/2020 11:50:40] "[37mGET /pat/app/v1.0/stats/ HTTP/1.1[0m" 200 -
+2020-09-29 11:50:47,218 - 127.0.0.1 - - [29/Sep/2020 11:50:47] "[37mPOST /pat/app/v1.0/models HTTP/1.1[0m" 200 -
+2020-09-29 11:51:03,518 -  * Detected change in 'c:\\Users\\User\\Desktop\\Data_Science_material\\Pfizer Bootcamp\\Pfizer Project\\Flask Basic Elements\\app.py', reloading
+2020-09-29 11:51:03,740 -  * Restarting with stat
+2020-09-29 11:51:07,366 -  * Debugger is active!
+2020-09-29 11:51:07,379 -  * Debugger PIN: 136-831-359
+2020-09-29 11:51:07,408 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
